@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Alexander-Godoi-Siemens
+- I'm graduate in Biotechnology at PUCPR (2023)
+- 👀 I’m interested in change my carrear area for Data Scietist
+- 🌱 I’m currently learning SQL, Python, Machine Learning
